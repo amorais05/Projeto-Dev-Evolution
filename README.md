@@ -108,7 +108,7 @@ http://localhost/Projeto-Dev-Evolution/public/login.php
 
 ## 📚 Diagrama de Funcionamento (PlantUML)
 
-![Logo](public/img/diagrama)
+![Diagrama](public/img/diagrama.png)
 
 ```
 @startuml
