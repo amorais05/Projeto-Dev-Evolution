@@ -191,6 +191,8 @@ Projeto-Dev-Evolution/
 
 Desenvolvido por:
 **Amanda Morais Martinelli**
+
+Chapecó, 26 de julho de 2025.
 📘 [Notion do Projeto](https://www.notion.so/Projeto-pr-tico-2209b6d7d7978037ae16f5b72712307b)
 
 
